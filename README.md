@@ -10,7 +10,7 @@ View a snapshot of tools and documents I have developed in my projects.
 
 ## Project 2: Product Dashboard
 
-
+<img src="images/Product-Dashboard-screenshot.PNG" height=500 >
 
 
 

@@ -2,13 +2,24 @@
 View a snapshot of tools and documents I have developed in my projects. 
 
 
-## Project 1: E-Commerce Customer RFM Scores
+## [Project 1: E-Commerce Customer RFM Scores](https://github.com/frankd123/RFM_Scores)
+*click title to view repo*
+
+### Objectives:
+* Improve the marketing team's efficiency and accuracy on future targeted promotions
+* Allow marketing team to segment customers based on purchase behavior
+* Created RFM scores for each individual customer ID
 
 ![](images/rfm-scores-view.PNG)
 
 <img src="images/revenue-per-rfm-group.PNG" height=350 >
 
-[Visit Github Repository](https://github.com/frankd123/RFM_Scores)
+**Further development possibilities**
+
+If this dataset was consistently being updated I would:
+* Create triggers to update column data and filter out any rows without sufficient data
+* Create stored procedures to update views
+* Create events to schedule execution of stored procedures
 
 ## Project 2: Product Dashboard
 

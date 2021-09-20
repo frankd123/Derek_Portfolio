@@ -8,7 +8,7 @@ View a snapshot of tools and documents I have developed in my projects.
 ### Objectives:
 * Improve the marketing team's efficiency and accuracy on future targeted promotions
 * Allow marketing team to segment customers based on purchase behavior
-* Created RFM scores for each individual customer ID
+* Created RFM scores using MYSQL and EXCEL for each individual customer ID
 
 ![](images/rfm-scores-view.PNG)
 
@@ -21,11 +21,15 @@ If this dataset was consistently being updated I would:
 * Create stored procedures to update views
 * Create events to schedule execution of stored procedures
 
-## Project 2: Product Dashboard
+## [Project 2: Product Dashboard](https://public.tableau.com/views/ProductDashboard_16314197128400/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+*click title to interact with dashboard in Tableau Public*
+
+### Objectives:
+This dashboard allows management and teams to monitor the product cost to the business and profits. The two charts allow for easy comparison based on filterable products and date ranges. The table in the bottom right features a summary of the selected products in the bottom chart. 
 
 <img src="images/Product-Dashboard-screenshot.PNG" height=500 >
 
-[Interact with Dashboard](https://public.tableau.com/views/ProductDashboard_16314197128400/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 
 

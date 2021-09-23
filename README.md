@@ -33,7 +33,7 @@ This dashboard allows management and teams to monitor the product cost to the bu
 
 
 
-## Project 3: Redesign Website
+## Other Supporting Documents
 <img src="images/LCL-Workflow.PNG" height=400 >
 
 [Index Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)

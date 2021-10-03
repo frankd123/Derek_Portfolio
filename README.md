@@ -30,11 +30,11 @@ This dashboard allows management and teams to monitor the product cost to the bu
 <img src="images/Product-Dashboard-screenshot.PNG" height=500 >
 
 
-Project Proposal: Template Submission Inefficiencies
+## Project Proposal: Template Submission Inefficiencies
 
 At my current place of employment (inbound customer service calling center), we have multiple forms to manually submit via email and I outline in the following document how this method causes inconsistencies and takes more time than is necessary. This document is used to convince management to collect data and analyze this process to accurately asses the need for restructuring the process as I do not have access to company data from my current position. 
 
-
+[Template submission Inefficiencies Document](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
 
 
 ## Other Supporting Documents

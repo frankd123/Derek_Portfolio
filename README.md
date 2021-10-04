@@ -7,7 +7,7 @@ View a snapshot of tools and documents I have developed in my projects.
   - GitLab
   - draw.io
 
-Created Workflow while working with Dark Jellyfish Web Development. 
+I created this workflow process while working with Dark Jellyfish Web Development. 
 Stakeholders Include:
   - 2 business owners
   - Full Stack Developer

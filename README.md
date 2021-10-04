@@ -1,6 +1,32 @@
 # Derek_Portfolio
 View a snapshot of tools and documents I have developed in my projects. 
 
+## Business Analyst Documentation
+*Tools Used:*
+  - MS Visio
+  - GitLab
+  - draw.io
+
+Created Workflow while working with Dark Jellyfish Web Development. 
+Stakeholders Include:
+  - 2 business owners
+  - Full Stack Developer
+  - Project Manager (me)
+<img src="images/LCL-Workflow.PNG" height=400 >
+
+### Example Use Case
+To connect the administration page and resources page, I wrote this [Use Case](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Use%20Case_Admin%20Links.PNG) and attached this [Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL_Knife_Resources_Page_Layout_1.3.pdf)
+
+### Wireframes
+[Index Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
+
+[Store Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Store%20Page%20Layout%201.5.pdf)
+
+### ER Diagram
+I took an online class on relational database management systems (MYSQL) and created this [Entity Relationship Diagram](https://github.com/frankd123/Derek_Portfolio/blob/main/images/The%20Office%20Entity%20Relationship%20Diagram.pdf)
+
+
+
 
 ## [Project 1: E-Commerce Customer RFM Scores](https://github.com/frankd123/RFM_Scores)
 *click title to view repo*
@@ -37,9 +63,3 @@ At my current place of employment (inbound customer service calling center), we 
 [Template submission Inefficiencies Document](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
 
 
-## Other Supporting Documents
-<img src="images/LCL-Workflow.PNG" height=400 >
-
-[Index Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
-
-[Store Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Store%20Page%20Layout%201.5.pdf)

@@ -8,6 +8,7 @@ View a snapshot of tools and documents I have developed in my projects.
   - draw.io
 
 I created this workflow process while working with Dark Jellyfish Web Development. 
+
 Stakeholders Include:
   - 2 business owners
   - Full Stack Developer
@@ -29,7 +30,14 @@ I took an online class on relational database management systems (MYSQL) and cre
 
 ## Project Proposal: Template Submission Inefficiencies
 
-At my current place of employment (inbound customer service calling center), we have multiple forms to manually submit via email and I outline in the following document how this method causes data inconsistencies, reduces calls per hour, what a solution scope would look like, and estimated business costs pre and post solution. This document is used to convince management to collect data and analyze this process to accurately assess the need for restructuring the process. 
+### Objectives:
+- Demonstrate the potential costs of manual submission of forms in the calling center
+- Outline the value with a solution scope
+- Outline the data analysis process through project approval
+- Convince management this process needs to be analyzed.
+
+*Tools Used:*
+- Excel
 
 [Template submission Inefficiencies Document](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
 
@@ -41,6 +49,10 @@ At my current place of employment (inbound customer service calling center), we 
 * Improve the marketing team's efficiency and accuracy on future targeted promotions
 * Allow marketing team to segment customers based on purchase behavior
 * Created RFM scores using MYSQL and EXCEL for each individual customer ID
+
+*Tools Used:*
+- MYSQL
+- Excel
 
 ![](images/rfm-scores-view.PNG)
 
@@ -58,6 +70,10 @@ If this dataset was consistently being updated I would:
 
 ### Objectives:
 This dashboard allows management and teams to monitor the product cost to the business and profits. The two charts allow for easy comparison based on filterable products and date ranges. The table in the bottom right features a summary of the selected products in the bottom chart. 
+
+*Tools Used:*
+- MySQL
+- Tableau
 
 <img src="images/Product-Dashboard-screenshot.PNG" height=500 >
 

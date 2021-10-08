@@ -15,9 +15,6 @@ Stakeholders Include:
   - Project Manager (me)
 <img src="images/LCL-Workflow.PNG" height=400 >
 
-### Example Use Case
-To connect the administration page and resources page, I wrote this [Use Case](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Use%20Case_Admin%20Links.PNG) and attached this [Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL_Knife_Resources_Page_Layout_1.3.pdf)
-
 ### Wireframes
 [Index Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
 

@@ -1,7 +1,7 @@
 # Derek_Portfolio
 View a snapshot of tools and documents I have developed in my projects. 
 
-## Business Analyst Documentation
+## LCL Knices Documentation
 *Tools Used:*
   - MS Visio
   - GitLab
@@ -15,28 +15,38 @@ Stakeholders Include:
   - Project Manager (me)
 <img src="images/LCL-Workflow.PNG" height=400 >
 
+[Current and Future State of Website](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Current%20and%20Future%20State%20Diagram.pdf)
+
 ### Wireframes
 [Index Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
 
 [Store Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Store%20Page%20Layout%201.5.pdf)
 
-### ER Diagram
-I took an online class on relational database management systems (MYSQL) and created this [Entity Relationship Diagram](https://github.com/frankd123/Derek_Portfolio/blob/main/images/The%20Office%20Entity%20Relationship%20Diagram.pdf)
+## [Project Proposal: Continued Education Training Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/CCI%20Continued%20Education%20Training.pdf)
+*click title to view poroposal*
+
+### Objectives:
+- Provide video training highlighting top customer representatives and provide supervisors with interactive training material
+- Repurpose the current weekly training to create consistency between all calling centers and teams
+- Increase sales and reduce customer churn
+- Increase calls per hour
+- Improve customer confidence in company
+
+[Training Video Process Map](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Video%20Creation%20Process%20Mapping.pdf)
 
 
+## [Project Proposal: Template Submission Inefficiencies Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
 
-## Project Proposal: Template Submission Inefficiencies
+*click title to view poroposal*
 
 ### Objectives:
 - Demonstrate the potential costs of manual submission of forms in the calling center
 - Outline the value with a solution scope
 - Outline the data analysis process through project approval
-- Convince management this process needs to be analyzed.
+- Convince management this process needs to be analyzed
 
 *Tools Used:*
 - Excel
-
-[Template submission Inefficiencies Document](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
 
 
 ## [Project 1: E-Commerce Customer RFM Scores](https://github.com/frankd123/RFM_Scores)
@@ -73,6 +83,12 @@ This dashboard allows management and teams to monitor the product cost to the bu
 - Tableau
 
 <img src="images/Product-Dashboard-screenshot.PNG" height=500 >
+
+
+## Other Documents
+
+### ER Diagram
+I took an online class on relational database management systems (MYSQL) and created this [Entity Relationship Diagram](https://github.com/frankd123/Derek_Portfolio/blob/main/images/The%20Office%20Entity%20Relationship%20Diagram.pdf)
 
 
 

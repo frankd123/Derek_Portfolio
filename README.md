@@ -53,9 +53,10 @@ Stakeholders Include:
 *click title to view repo*
 
 ### Objectives:
+* Utilize invoices to create purchase behavior scores based on Recency, Frequency, and Monetary value of purchase history. 
 * Improve the marketing team's efficiency and accuracy on future targeted promotions
-* Allow marketing team to segment customers based on purchase behavior
-* Created RFM scores using MYSQL and EXCEL for each individual customer ID
+* Segment customers into segments based on purchase behavior
+* Created RFM scores using SQL for each individual customer ID
 
 *Tools Used:*
 - MYSQL

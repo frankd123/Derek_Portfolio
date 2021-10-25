@@ -36,7 +36,7 @@ This dashboard allows management and teams to monitor the product cost to the bu
 - MySQL
 - Tableau
 
-
+<img src="images/Product Dashboard Image.PNG" height=350 >
 
 
 ## [Website Redesign for LCL Knices Documentation]()

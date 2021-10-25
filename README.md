@@ -26,7 +26,7 @@ If this dataset was consistently being updated I would:
 * Create events to schedule execution of stored procedures
 
 
-## [Product Dashboard](https://public.tableau.com/views/ProductDashboard_16314197128400/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+## [Product Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ProductDashboard_16314197128400/Dashboard2)
 *click title to interact with dashboard in Tableau Public*
 
 ### Objectives:
@@ -36,7 +36,7 @@ This dashboard allows management and teams to monitor the product cost to the bu
 - MySQL
 - Tableau
 
-<img src="images/Product-Dashboard-screenshot.PNG" height=500 >
+
 
 
 ## [Website Redesign for LCL Knices Documentation]()

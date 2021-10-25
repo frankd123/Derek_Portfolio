@@ -26,17 +26,18 @@ If this dataset was consistently being updated I would:
 * Create events to schedule execution of stored procedures
 
 
-## [Product Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ProductDashboard_16314197128400/Dashboard2)
+## [Profit Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ProductDashboard_16314197128400/Dashboard2)
 *click title to interact with dashboard in Tableau Public*
 
 ### Objectives:
-This dashboard allows management and teams to monitor the product cost to the business and profits. The two charts allow for easy comparison based on filterable products and date ranges. The table in the bottom right features a summary of the selected products in the bottom chart. 
+- Drill down to specific years, products, markets, and product category to compare profit activity
+- Monitor and compare KPIs
 
 *Tools Used:*
 - MySQL
 - Tableau
 
-[<img src="images/Product Dashboard Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/ProductDashboard_16314197128400/Dashboard2)
+[<img src="images/Profit Dashboard Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/ProductDashboard_16314197128400/Dashboard2)
 
 
 ## [Website Redesign for LCL Knices Documentation]()

@@ -4,17 +4,14 @@ View a snapshot of tools and documents I have developed in my projects.
 ## [E-Commerce Customer Segmentation for Marketing](https://github.com/frankd123/RFM_Scores)
 *click title to view repo*
 
-### Objectives:
-* Utilize invoices to create purchase behavior scores based on Recency, Frequency, and Monetary value of purchase history. 
-* Improve the marketing team's efficiency and accuracy on future targeted promotions
-* Segment customers into segments based on purchase behavior
-* Created RFM scores using SQL for each individual customer ID
+### Project Objectives:
+- **Increase customer interaction with promotions by segmenting customers based on purchase behavior**
+- Segment customers using RFM scores (recency, requency, monetary) produced using SQL
+- Benchmark metrics on customer interactions
 
 *Tools Used:*
 - MYSQL
 - Excel
-
-![](images/rfm-scores-view.PNG)
 
 <img src="images/revenue-per-rfm-group.PNG" height=350 >
 
@@ -29,8 +26,8 @@ If this dataset was consistently being updated I would:
 ## [Profit Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ProductDashboard_16314197128400/Dashboard2)
 *click title to interact with dashboard in Tableau Public*
 
-### Objectives:
-- Drill down to specific years, products, markets, and product category to compare profit activity
+### Project Objectives:
+-	**Assist management to analyze profit by years, products, markets, and product category.**
 - Monitor and compare KPIs
 
 *Tools Used:*
@@ -41,34 +38,34 @@ If this dataset was consistently being updated I would:
 
 
 ## [Website Redesign for LCL Knices Documentation]()
+
+### Project Objectives
+- **Increase sales by simplifying and condensing the user experience**
+- Decrease user bounce rate by reducing page loading time to less than 1 second
+- Streamline user experience by condensing website architecture by 70%
+
+*Image below* outlines the workflow and defines when a ticket is complete. 
+
+<img src="images/LCL-Workflow.PNG" height=400 >
+
+[Current and Future State of Website Architecture Diagram](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Current%20and%20Future%20State%20Diagram.pdf)
+
+### Wireframes for website design
+[Index Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
+
+[Store Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Store%20Page%20Layout%201.5.pdf)
+
 *Tools Used:*
   - MS Visio
   - GitLab
   - draw.io
 
-I created this workflow process while working with LCL Knives.  
-
-Stakeholders Include:
-  - 2 business owners
-  - Full Stack Developer
-  - Project Manager (me)
-<img src="images/LCL-Workflow.PNG" height=400 >
-
-[Current and Future State of Website](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Current%20and%20Future%20State%20Diagram.pdf)
-
-### Wireframes
-[Index Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
-
-[Store Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Store%20Page%20Layout%201.5.pdf)
-
-
-
-## [Template Submission Inefficiencies Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
+## [Optimize Manual Template Submission Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
 
 *click title to view poroposal*
 
-### Objectives:
-- Demonstrate the potential costs of manual submission of forms in the calling center
+### Project Objectives:
+- **Reduce labor costs for Customer Representatives, Supervisors, and Data Analysts working with submitted templates**
 - Outline the value with a solution scope
 - Outline the data analysis process through project approval
 - Convince management this process needs to be analyzed
@@ -80,19 +77,18 @@ Stakeholders Include:
 ## [Continued Education Training Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/CCI%20Continued%20Education%20Training.pdf)
 *click title to view poroposal*
 
-### Objectives:
-- Provide video training highlighting top customer representatives and provide supervisors with interactive training material
+### Project Objectives:
+- **Increase sales, calls per hour, and customer confidence through weekly continued training**
+- Provide video training highlighting top customer representative tactics and provide supervisors with interactive training material
 - Repurpose the current weekly training to create consistency between all calling centers and teams
-- Increase sales and reduce customer churn
-- Increase calls per hour
-- Improve customer confidence in company
 
-[Training Video Process Map](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Video%20Creation%20Process%20Mapping.pdf)
+
+[Training Video Creation Process Map](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Video%20Creation%20Process%20Mapping.pdf)
 
 
 ## Other Documents
 
-### ER Diagram
+### Entity Relationship Diagram
 I took an online class on relational database management systems (MYSQL) and created this [Entity Relationship Diagram](https://github.com/frankd123/Derek_Portfolio/blob/main/images/The%20Office%20Entity%20Relationship%20Diagram.pdf)
 
 

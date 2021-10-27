@@ -65,7 +65,7 @@ If this dataset was consistently being updated I would:
 *click title to view proposal*
 
 ### Project Objectives:
-- **Reduce labor costs for Customer Representatives, Supervisors, and Data Analysts working with submitted templates**
+- **Reduce process costs for Customer Representatives, Supervisors, and Data Analysts working with submitted templates**
 - Outline the value with a solution scope
 - Outline the data analysis process through project approval
 - Convince management this process needs to be analyzed

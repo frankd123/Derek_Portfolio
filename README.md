@@ -13,7 +13,7 @@ View a snapshot of tools and documents I have developed in my projects.
 - MYSQL
 - Excel
 
-<img src="images/revenue-per-rfm-group.PNG" height=350 >
+<img src="images/RFM Revenue Chart.PNG" height=350 >
 
 **Further development possibilities**
 

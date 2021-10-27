@@ -6,7 +6,7 @@ View a snapshot of tools and documents I have developed in my projects.
 
 ### Project Objectives:
 - **Increase customer interaction with promotions by segmenting customers based on purchase behavior**
-- Segment customers using RFM scores (recency, requency, monetary) produced using SQL
+- Segment customers using RFM scores (recency, frequency, monetary) produced using SQL
 - Benchmark metrics on customer interactions
 
 *Tools Used:*
@@ -37,7 +37,7 @@ If this dataset was consistently being updated I would:
 [<img src="images/Profit Dashboard Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/ProductDashboard_16314197128400/Dashboard2)
 
 
-## [Website Redesign for LCL Knices Documentation]()
+## [Website Redesign for LCL Knives Documentation]()
 
 ### Project Objectives
 - **Increase sales by simplifying and condensing the user experience**
@@ -62,7 +62,7 @@ If this dataset was consistently being updated I would:
 
 ## [Optimize Manual Template Submission Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
 
-*click title to view poroposal*
+*click title to view proposal*
 
 ### Project Objectives:
 - **Reduce labor costs for Customer Representatives, Supervisors, and Data Analysts working with submitted templates**
@@ -75,7 +75,7 @@ If this dataset was consistently being updated I would:
 
 
 ## [Continued Education Training Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/CCI%20Continued%20Education%20Training.pdf)
-*click title to view poroposal*
+*click title to view proposal*
 
 ### Project Objectives:
 - **Increase sales, calls per hour, and customer confidence through weekly continued training**

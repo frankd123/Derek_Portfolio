@@ -2,7 +2,7 @@
 View a snapshot of tools and documents I have developed in my projects. 
 
 ## [E-Commerce Customer Segmentation for Marketing](https://github.com/frankd123/RFM_Scores)
-*click title to view repo*
+*click title to view SQL query*
 
 ### Project Objectives:
 - **Increase customer interaction with promotions by segmenting customers based on purchase behavior**

@@ -1,6 +1,21 @@
 # Derek_Portfolio
 View a snapshot of tools and documents I have developed in my projects. 
 
+## [Conversion Rate analysis Dashboard](https://public.tableau.com/shared/G8FGBZFXD?:display_count=n&:origin=viz_share_link)
+*click title te view dashboard*
+
+### Project Objectives
+- **Find root cause of conversion rate reduction and make recommendation for next steps**
+- Compare demographic groups, prospect funnel rates, and trends to determine source of reduced conversion rate
+- Create a dashboard to measure success and changes of future advertisement campaigns
+
+*Tools Used:*
+- MySQL
+- Tableau
+
+[<img src="images/Conversion Rate Analysis Pic.PNG" height=350 >](https://public.tableau.com/shared/G8FGBZFXD?:display_count=n&:origin=viz_share_link)
+
+
 ## [E-Commerce Customer Segmentation for Marketing](https://github.com/frankd123/RFM_Scores)
 *click title to view SQL query*
 

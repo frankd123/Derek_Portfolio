@@ -38,7 +38,7 @@ If this dataset was consistently being updated I would:
 * Create events to schedule execution of stored procedures
 
 
-## [Profit Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ProductDashboard_16314197128400/Dashboard2)
+## [Profit Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ProfitDashboard_16351850822320/Dashboard2)
 *click title to interact with dashboard in Tableau Public*
 
 ### Project Objectives:
@@ -49,7 +49,7 @@ If this dataset was consistently being updated I would:
 - MySQL
 - Tableau
 
-[<img src="images/Profit Dashboard Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/ProductDashboard_16314197128400/Dashboard2)
+[<img src="images/Profit Dashboard Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/ProfitDashboard_16351850822320/Dashboard2)
 
 
 ## [Gilbert Survey Results Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/GilbertAmbulanceServicesSurvey/Dashboard1)

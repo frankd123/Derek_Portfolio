@@ -1,7 +1,7 @@
 # Derek_Portfolio
 View a snapshot of tools and documents I have developed in my projects. 
 
-## [Conversion Rate analysis Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)
+## [Conversion Rate Analysis Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)
 *click title te view dashboard*
 
 ### Project Objectives

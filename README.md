@@ -1,6 +1,20 @@
 # Derek_Portfolio
 View a snapshot of tools and documents I have developed in my projects. 
 
+## [Global Sales Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
+*click title te view dashboard*
+
+### Project Objectives
+- **Track high level metrics for global sales**
+- Compare sales by continent and country
+
+*Tools Used:*
+- MySQL
+- Tableau
+
+[<img src="images/Conversion Rate Analysis Pic.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
+
+
 ## [Conversion Rate Analysis Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)
 *click title te view dashboard*
 

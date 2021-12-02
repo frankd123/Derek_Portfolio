@@ -12,7 +12,7 @@ View a snapshot of tools and documents I have developed in my projects.
 - MySQL
 - Tableau
 
-[<img src="images/Conversion Rate Analysis Pic.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
+[<img src="images/Global Sales Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
 
 
 ## [Conversion Rate Analysis Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)

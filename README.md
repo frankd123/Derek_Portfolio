@@ -2,7 +2,7 @@
 View a snapshot of tools and documents I have developed in my projects. 
 
 ## [Global Sales Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
-*click title te view dashboard*
+*click title to view dashboard*
 
 ### Project Objectives
 - **Support management in tracking high level metrics**
@@ -16,7 +16,7 @@ View a snapshot of tools and documents I have developed in my projects.
 
 
 ## [Conversion Rate Analysis Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)
-*click title te view dashboard*
+*click title to view dashboard*
 
 ### Project Objectives
 - **Find root cause of conversion rate reduction and make recommendation for next steps**

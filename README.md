@@ -5,11 +5,11 @@ View a snapshot of tools and documents I have developed in my projects.
 *click title te view dashboard*
 
 ### Project Objectives
-- **Track high level metrics for global sales**
+- **Support management in tracking high level metrics**
+- Track high level Key Performance Indicators
 - Compare sales by continent and country
 
 *Tools Used:*
-- MySQL
 - Tableau
 
 [<img src="images/Global Sales Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
@@ -50,20 +50,6 @@ If this dataset was consistently being updated I would:
 * Create triggers to update column data and filter out any rows without sufficient data
 * Create stored procedures to update views
 * Create events to schedule execution of stored procedures
-
-
-## [Profit Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ProfitDashboard_16351850822320/Dashboard2)
-*click title to interact with dashboard in Tableau Public*
-
-### Project Objectives:
--	**Assist management to analyze profit by years, products, markets, and product category.**
-- Monitor and compare KPIs
-
-*Tools Used:*
-- MySQL
-- Tableau
-
-[<img src="images/Profit Dashboard Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/ProfitDashboard_16351850822320/Dashboard2)
 
 
 ## [Gilbert Survey Results Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/GilbertAmbulanceServicesSurvey/Dashboard1)

@@ -40,9 +40,12 @@ View a snapshot of tools and documents I have developed in my projects.
 - Decrease user bounce rate by reducing page loading time to less than 1 second
 - Streamline user experience by condensing website architecture by 70%
 
-*Image below* outlines the workflow and defines when a ticket is complete. 
+
+*click on image to view more screenshots*
 
 [<img src="images/Screen Shot home page.png" height=300 >](https://github.com/frankd123/Derek_Portfolio/blob/main/LCL%20hunting%20Images.md)
+
+*Image below* outlines the workflow and defines when a ticket is complete. 
 
 <img src="images/LCL-Workflow.PNG" height=400 >
 

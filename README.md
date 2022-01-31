@@ -42,6 +42,8 @@ View a snapshot of tools and documents I have developed in my projects.
 
 *Image below* outlines the workflow and defines when a ticket is complete. 
 
+[<img src="images/Screen Shot home page.png" height=300 >](https://github.com/frankd123/Derek_Portfolio/blob/main/LCL%20hunting%20Images.md)
+
 <img src="images/LCL-Workflow.PNG" height=400 >
 
 [Current and Future State of Website Architecture Diagram](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Current%20and%20Future%20State%20Diagram.pdf)

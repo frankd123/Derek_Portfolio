@@ -51,7 +51,7 @@ View a snapshot of tools and documents I have developed in my projects.
 - Streamline user experience by condensing website architecture by 70%
 
 
-*click on image to view more screenshots*
+### **click on image to view more screenshots**
 
 [<img src="images/Screen Shot home page.png" height=300 >](https://github.com/frankd123/Derek_Portfolio/blob/main/LCL%20hunting%20Images.md)
 

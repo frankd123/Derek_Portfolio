@@ -15,8 +15,18 @@ View a snapshot of tools and documents I have developed in my projects.
 [<img src="images/Global Sales Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
 
 
+## [Personal Finance Dashboard]()
+*not available for interaction*
 
+### Project Objectives
+- **Track all transactions**
+- Track recurring payments
+- Identify all unique transactions
+- Manage earned vs spent to identify areas where spending can be cut
 
+<img src="images/Dashboard 1 blur.png" height=350 >
+
+<img src="images/Dashboard 2 blur.png" height=350 >
 
 
 

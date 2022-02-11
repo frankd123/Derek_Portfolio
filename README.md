@@ -24,6 +24,8 @@ View a snapshot of tools and documents I have developed in my projects.
 - Identify all unique transactions
 - Manage earned vs spent to identify areas where spending can be cut
 
+[**Business Case Document**](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Business%20Case.pdf)
+
 <img src="images/Dashboard 1 blur.png" height=350 >
 
 <img src="images/Dashboard 2 blur.png" height=350 >

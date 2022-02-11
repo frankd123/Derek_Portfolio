@@ -61,12 +61,12 @@ View a snapshot of tools and documents I have developed in my projects.
 
 <img src="images/LCL-Workflow.PNG" height=400 >
 
-[Current and Future State of Website Architecture Diagram](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Current%20and%20Future%20State%20Diagram.pdf)
+[**Website Architecture Diagram** - Current and Future State](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Current%20and%20Future%20State%20Diagram.pdf)
 
 ### Wireframes for website design
-[Index Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
+[**Wireframe** - Index Page](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
 
-[Store Page Wireframe](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Store%20Page%20Layout%201.5.pdf)
+[**Wireframe** - Store Page](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Store%20Page%20Layout%201.5.pdf)
 
 *Tools Used:*
   - MS Visio
@@ -84,13 +84,12 @@ View a snapshot of tools and documents I have developed in my projects.
 - Repurpose the current weekly training to create consistency between all calling centers and teams
 
 
-[Training Video Creation Process Map](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Video%20Creation%20Process%20Mapping.pdf)
+[**Process Map** - Training Video Creation](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Video%20Creation%20Process%20Mapping.pdf)
 
 
 ## Other Documents
 
-### Entity Relationship Diagram
-I took an online class on relational database management systems (MYSQL) and created this [Entity Relationship Diagram](https://github.com/frankd123/Derek_Portfolio/blob/main/images/The%20Office%20Entity%20Relationship%20Diagram.pdf)
+[**Entity Relationship Diagram**](https://github.com/frankd123/Derek_Portfolio/blob/main/images/The%20Office%20Entity%20Relationship%20Diagram.pdf)
 
 
 

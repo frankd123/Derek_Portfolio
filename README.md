@@ -1,18 +1,28 @@
 # Derek_Portfolio
 View a snapshot of tools and documents I have developed in my projects. 
 
-## [Global Sales Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
-*click title to view dashboard*
 
-### Project Objectives
-- **Support management in tracking high level metrics**
-- Track high level Key Performance Indicators
-- Compare sales by continent and country
+## [E-Commerce Customer Segmentation Analysis](https://github.com/frankd123/RFM_Scores)
+*click title to view SQL query*
+
+### Project Objectives:
+- **Increase customer interaction with promotions by segmenting customers based on purchase behavior**
+- Segment customers using RFM scores (recency, frequency, monetary) produced using SQL
+- Benchmark metrics on customer interactions
 
 *Tools Used:*
-- Tableau
+- MYSQL
+- Excel
 
-[<img src="images/Global Sales Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
+<img src="images/RFM Revenue Chart.PNG" height=350 >
+
+**Further development possibilities**
+
+If this dataset was consistently being updated I would:
+* Create triggers to update column data and filter out any rows without sufficient data
+* Create stored procedures to update views
+* Create events to schedule execution of stored procedures
+
 
 
 ## [Personal Finance Dashboard]()
@@ -30,19 +40,6 @@ View a snapshot of tools and documents I have developed in my projects.
 
 <img src="images/Dashboard 2 blur.png" height=350 >
 
-
-
-## [Gilbert Survey Results Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/GilbertAmbulanceServicesSurvey/Dashboard1)
-*click title to interact with dashboard in Tableau Public*
-
-### Project Objectives:
-- **Prioritize the budget of Gilbert Fire and Rescue's ambulance service based on community input**
-- Filter through community comments using keywords
-
-[<img src="images/Gilbert Ambulance Survey Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GilbertAmbulanceServicesSurvey/Dashboard1)
-
-*Tools Used:*
-- Tableau
 
 
 ## [Website Redesign for LCL Knives Documentation]()
@@ -73,18 +70,19 @@ View a snapshot of tools and documents I have developed in my projects.
   - GitLab
   - draw.io
 
-
-
-## [Continued Education Training Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/CCI%20Continued%20Education%20Training.pdf)
-*click title to view proposal*
+## [Gilbert Survey Results Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/GilbertAmbulanceServicesSurvey/Dashboard1)
+*click title to interact with dashboard in Tableau Public*
 
 ### Project Objectives:
-- **Increase sales, calls per hour, and customer confidence through weekly continued training**
-- Provide video training highlighting top customer representative tactics and provide supervisors with interactive training material
-- Repurpose the current weekly training to create consistency between all calling centers and teams
+- **Prioritize the budget of Gilbert Fire and Rescue's ambulance service based on community input**
+- Filter through community comments using keywords
+
+[<img src="images/Gilbert Ambulance Survey Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GilbertAmbulanceServicesSurvey/Dashboard1)
+
+*Tools Used:*
+- Tableau
 
 
-[**Process Map** - Training Video Creation](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Video%20Creation%20Process%20Mapping.pdf)
 
 
 ## Other Documents

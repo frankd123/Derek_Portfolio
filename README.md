@@ -2,29 +2,6 @@
 View a snapshot of tools and documents I have developed in my projects. 
 
 
-## [Customer Segmentation Analysis, E-Commerce](https://github.com/frankd123/RFM_Scores)
-*click title to view SQL query*
-
-### Project Objectives:
-- **Increase customer interaction with promotions by segmenting customers based on purchase behavior**
-- Segment customers using RFM scores (recency, frequency, monetary) produced using SQL
-- Built SQL database to collect transaction data, clean data, purchase and customer analysis, assign RFM Scores.
-- Visualization created in Excel.
-
-*Tools Used:*
-- MYSQL
-- Excel
-
-<img src="images/RFM Revenue Chart.PNG" height=350 >
-
-**Further development possibilities**
-
-If this dataset was consistently being updated I would:
-* Create triggers to update column data and filter out any rows without sufficient data
-* Create stored procedures to update views
-* Create events to schedule execution of stored procedures
-
-
 
 ## [Personal Finance Dashboard]()
 *not available for interaction*

@@ -1,4 +1,4 @@
-## [E-Commerce Customer Segmentation for Marketing](https://github.com/frankd123/RFM_Scores)
+## [E-Commerce Customer Segmentation Analysis](https://github.com/frankd123/RFM_Scores)
 *click title to view SQL query*
 
 ### Project Objectives:
@@ -20,6 +20,19 @@ If this dataset was consistently being updated I would:
 * Create events to schedule execution of stored procedures
 
 
+## [Global Sales Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
+*click title to view dashboard*
+
+### Project Objectives
+- **Support management in tracking high level metrics**
+- Track high level Key Performance Indicators
+- Compare sales by continent and country
+
+*Tools Used:*
+- Tableau
+
+[<img src="images/Global Sales Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
+
 ## [Optimize Manual Template Submission Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
 
 *click title to view proposal*
@@ -32,6 +45,18 @@ If this dataset was consistently being updated I would:
 
 *Tools Used:*
 - Excel
+
+## [Continued Education Training Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/CCI%20Continued%20Education%20Training.pdf)
+*click title to view proposal*
+
+### Project Objectives:
+- **Increase sales, calls per hour, and customer confidence through weekly continued training**
+- Provide video training highlighting top customer representative tactics and provide supervisors with interactive training material
+- Repurpose the current weekly training to create consistency between all calling centers and teams
+
+
+[**Process Map** - Training Video Creation](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Video%20Creation%20Process%20Mapping.pdf)
+
 
 
 ## [Conversion Rate Analysis Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)

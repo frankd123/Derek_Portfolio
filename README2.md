@@ -33,6 +33,21 @@ If this dataset was consistently being updated I would:
 
 [<img src="images/Global Sales Image.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/GlobalsalesDashboard/Dashboard1)
 
+## [Conversion Rate Analysis Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)
+*click title to view dashboard*
+
+### Project Objectives
+- **Find root cause of conversion rate reduction and make recommendation for next steps**
+- Compare demographic groups, prospect funnel rates, and trends to determine source of reduced conversion rate
+- Create a dashboard to measure success and changes of future advertisement campaigns
+
+*Tools Used:*
+- MySQL
+- Tableau
+
+[<img src="images/Conversion Rate Analysis Pic.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)
+
+
 ## [Optimize Manual Template Submission Proposal](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Template%20Submission%20Inefficiencies%20CCI.pdf)
 
 *click title to view proposal*
@@ -59,16 +74,4 @@ If this dataset was consistently being updated I would:
 
 
 
-## [Conversion Rate Analysis Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)
-*click title to view dashboard*
 
-### Project Objectives
-- **Find root cause of conversion rate reduction and make recommendation for next steps**
-- Compare demographic groups, prospect funnel rates, and trends to determine source of reduced conversion rate
-- Create a dashboard to measure success and changes of future advertisement campaigns
-
-*Tools Used:*
-- MySQL
-- Tableau
-
-[<img src="images/Conversion Rate Analysis Pic.PNG" height=350 >](https://public.tableau.com/app/profile/derek.frank2259/viz/ConversionRateAnalysis_16375958250740/DashboardTab1)

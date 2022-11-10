@@ -2,13 +2,14 @@
 View a snapshot of tools and documents I have developed in my projects. 
 
 
-## [E-Commerce Customer Segmentation Analysis](https://github.com/frankd123/RFM_Scores)
+## [Customer Segmentation Analysis, E-Commerce](https://github.com/frankd123/RFM_Scores)
 *click title to view SQL query*
 
 ### Project Objectives:
 - **Increase customer interaction with promotions by segmenting customers based on purchase behavior**
 - Segment customers using RFM scores (recency, frequency, monetary) produced using SQL
-- Benchmark metrics on customer interactions
+- Built SQL database to collect transaction data, clean data, purchase and customer analysis, assign RFM Scores.
+- Visualization created in Excel.
 
 *Tools Used:*
 - MYSQL
@@ -40,6 +41,26 @@ If this dataset was consistently being updated I would:
 
 <img src="images/Dashboard 2 blur.png" height=350 >
 
+## [Customer Segmentation Analysis, E-Commerce](https://github.com/frankd123/RFM_Scores)
+*click title to view SQL query*
+
+### Project Objectives:
+- **Increase customer interaction with promotions by segmenting customers based on purchase behavior**
+- Segment customers using RFM scores (recency, frequency, monetary) produced using SQL
+- Built SQL database to collect transaction data, clean data, purchase and customer analysis, assign RFM Scores.
+- Visualization created in Excel.
+
+*Tools Used:*
+- MYSQL
+- Excel
+
+<img src="images/RFM Revenue Chart.PNG" height=350 >
+
+**Further development possibilities**
+
+* Build dashboards to moniter interaction of customer interaction during marketing campaigns
+* Create triggers to update column data and filter out any rows without sufficient data
+* Make running the queries more light weight in their execution. 
 
 
 ## [Website Redesign for LCL Knives Documentation]()

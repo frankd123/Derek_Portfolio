@@ -16,10 +16,12 @@ View a snapshot of tools and documents I have developed in my projects.
 *not available for interaction*
 
 ### Project Objectives
-- **Track all transactions**
-- Track recurring payments
-- Identify all unique transactions
-- Manage earned vs spent to identify areas where spending can be cut
+- **Track all unique transactions and recurring payments**
+- Track transaction categories to find most costly categories.
+- Automate data cleaning in SQL database with stored procedures. 
+
+### Project Outcome
+- **Saved over $500 in the last year by identifying 5 unused monthly and yearly subscriptions.** 
 
 [**Business Case Document**](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Business%20Case.pdf)
 

@@ -6,7 +6,7 @@ View a snapshot of tools and documents I have developed in my projects.
 ### Project Objectives: 
 - **Analyze current cost per month for current car and compare risk for newer car options**
 
-<img src="images/" height=350 >
+<img src="images/Car Analysis Dashboard Screenshot.PNG" height=350 >
 
 ## [Personal Finance Dashboard]()
 *not available for interaction*

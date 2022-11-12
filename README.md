@@ -23,8 +23,6 @@ View a snapshot of tools and documents I have developed in my projects.
 ### Project Outcome
 - **Saved over $500 in the last year by identifying 5 unused monthly and yearly subscriptions.** 
 
-[**Business Case Document**](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Business%20Case.pdf)
-
 <img src="images/Dashboard 1 blur.png" height=350 >
 
 <img src="images/Dashboard 2 blur.png" height=350 >

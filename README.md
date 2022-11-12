@@ -4,7 +4,7 @@ View a snapshot of tools and documents I have developed in my projects.
 ## [Car Purchase Analysis]()
 
 ### Project Objectives: 
-- **Analyze current cost per month for current car**
+- **Analyze cost per month for current car**
 - Risk analysis of different car purchasing scenarios
 
 ### Outcome
@@ -17,8 +17,8 @@ View a snapshot of tools and documents I have developed in my projects.
 
 ### Project Objectives
 - **Track all unique transactions and recurring payments**
-- Track transaction categories to find most costly categories.
-- Automate data cleaning in SQL database with stored procedures. 
+- Track transaction categories to find most costly categories
+- Automate data cleaning in SQL database with stored procedures
 
 ### Project Outcome
 - **Saved over $500 in the last year by identifying 5 unused monthly and yearly subscriptions.** 
@@ -32,9 +32,12 @@ View a snapshot of tools and documents I have developed in my projects.
 
 ### Project Objectives:
 - **Increase customer interaction with promotions by segmenting customers based on purchase behavior**
-- Segment customers using RFM scores (recency, frequency, monetary) produced using SQL
-- Built SQL database to collect transaction data, clean data, purchase and customer analysis, assign RFM Scores.
-- Visualization created in Excel.
+- Segment customers by RFM scores (recency, frequency, monetary) produced using SQL
+- Built SQL database to collect transaction data, clean data, purchase and customer analysis, assign RFM scores
+- Visualization created in Excel
+
+### About RFM Scores:
+To create an RFM score, each customer gets a score for the recentcy of last putchase, the frequency of purchases, and the average monetary value of each purchase. The customer will receive a score of 1-3 (3 being the most profitable number) for each category and those three numbers are put together to create a single three digit number. Every combination of these numbers represents a group of customers with similar purchase habits. 
 
 *Tools Used:*
 - MYSQL
@@ -46,7 +49,7 @@ View a snapshot of tools and documents I have developed in my projects.
 
 * Build dashboards to moniter interaction of customer interaction during marketing campaigns
 * Create triggers to update column data and filter out any rows without sufficient data
-* Make running the queries more light weight in their execution. 
+* Make running the queries more light weight in their execution
 
 
 ## [Website Redesign for LCL Knives Documentation]()
@@ -54,8 +57,11 @@ View a snapshot of tools and documents I have developed in my projects.
 ### Project Objectives
 - **Increase sales by simplifying and condensing the user experience**
 - Decrease user bounce rate by reducing page loading time to less than 1 second
-- Streamline user experience by condensing website architecture by 70%
+- Streamline user experience by condensing website architecture
 
+### Project Outcomes
+- Reduced page load time by more than 60 seconds by reducing number of images per page, file compression, and changing storage system
+- Reduced website structure by 70% from 20 to 7 web pages by combining similar webpages and condensing content
 
 ### **click on image to view more screenshots**
 

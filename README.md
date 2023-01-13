@@ -8,7 +8,7 @@ View a snapshot of tools and documents I have developed in my projects.
 - Risk analysis of different car purchasing scenarios
 
 ### Outcome
-- **Saving over 20% on car payments to be implemented January 2023 by analyzing financial data in Excel and recommending the options with least financial risk.**
+- **Saving 10% on car payments by analyzing financial data in Excel and recommending the options with least financial risk.**
 
 <img src="images/Car Analysis Dashboard Screenshot.PNG" height=350 >
 

@@ -47,7 +47,7 @@ View a snapshot of tools and documents I have developed in my projects.
 <img src="images/Car Analysis Dashboard Screenshot.PNG" height=350 >
 
 ## [Personal Finance Dashboard]()
-*not available for interaction*
+
 
 ### Project Objectives
 - **Track all unique transactions and recurring payments**

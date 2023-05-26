@@ -1,5 +1,39 @@
 # Derek_Portfolio
-View a snapshot of tools and documents I have developed in my projects. 
+View a snapshot of tools and documents I have developed in my projects.
+
+
+## [Website Redesign for LCL Knives Documentation]()
+
+### Project Objectives
+- **Increase sales by simplifying and condensing the user experience**
+- Decrease user bounce rate by reducing page loading time to less than 1 second
+- Streamline user experience by condensing website architecture
+
+### Project Outcomes
+- Reduced page load time by more than 60 seconds by reducing number of images per page, file compression, and changing storage system
+- Reduced website structure by 65% from 20 to 7 web pages by combining similar webpages and condensing content
+
+### **click on image to view more screenshots**
+
+[<img src="images/Screen Shot home page.png" height=300 >](https://github.com/frankd123/Derek_Portfolio/blob/main/LCL%20hunting%20Images.md)
+
+*Image below* outlines the workflow and defines when a ticket is complete. 
+
+<img src="images/LCL-Workflow.PNG" height=400 >
+
+[**Website Structure Diagram** - Current and Future State](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Current%20and%20Future%20State%20Diagram.pdf)
+
+### Wireframes for website design
+[**Wireframe** - Index Page](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
+
+[**Wireframe** - Store Page](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Store%20Page%20Layout%201.5.pdf)
+
+*Tools Used:*
+  - MS Visio
+  - GitLab
+  - draw.io
+ 
+ 
 
 ## [Car Purchase Analysis]()
 
@@ -52,36 +86,7 @@ To create an RFM score, each customer gets a score for the recentcy of last putc
 * Make running the queries more light weight in their execution
 
 
-## [Website Redesign for LCL Knives Documentation]()
 
-### Project Objectives
-- **Increase sales by simplifying and condensing the user experience**
-- Decrease user bounce rate by reducing page loading time to less than 1 second
-- Streamline user experience by condensing website architecture
-
-### Project Outcomes
-- Reduced page load time by more than 60 seconds by reducing number of images per page, file compression, and changing storage system
-- Reduced website structure by 70% from 20 to 7 web pages by combining similar webpages and condensing content
-
-### **click on image to view more screenshots**
-
-[<img src="images/Screen Shot home page.png" height=300 >](https://github.com/frankd123/Derek_Portfolio/blob/main/LCL%20hunting%20Images.md)
-
-*Image below* outlines the workflow and defines when a ticket is complete. 
-
-<img src="images/LCL-Workflow.PNG" height=400 >
-
-[**Website Architecture Diagram** - Current and Future State](https://github.com/frankd123/Derek_Portfolio/blob/main/images/Current%20and%20Future%20State%20Diagram.pdf)
-
-### Wireframes for website design
-[**Wireframe** - Index Page](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Index%20Layout%201.3.pdf)
-
-[**Wireframe** - Store Page](https://github.com/frankd123/Derek_Portfolio/blob/main/images/LCL%20Knife%20Store%20Page%20Layout%201.5.pdf)
-
-*Tools Used:*
-  - MS Visio
-  - GitLab
-  - draw.io
 
 ## [Gilbert Survey Results Dashboard](https://public.tableau.com/app/profile/derek.frank2259/viz/GilbertAmbulanceServicesSurvey/Dashboard1)
 *click title to interact with dashboard in Tableau Public*

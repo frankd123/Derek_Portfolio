@@ -46,6 +46,9 @@ View a snapshot of tools and documents I have developed in my projects.
 
 <img src="images/Car Analysis Dashboard Screenshot.PNG" height=350 >
 
+*Tools Used:*
+- Excel
+
 ## [Personal Finance Dashboard]()
 
 
@@ -60,6 +63,10 @@ View a snapshot of tools and documents I have developed in my projects.
 <img src="images/Dashboard 1 blur.png" height=350 >
 
 <img src="images/Dashboard 2 blur.png" height=350 >
+
+*Tools Used:*
+- SQL
+- Tableau
 
 ## [Customer Segmentation Analysis, E-Commerce](https://github.com/frankd123/RFM_Scores)
 *click title to view SQL query*
